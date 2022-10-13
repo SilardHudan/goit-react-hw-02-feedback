@@ -7,7 +7,6 @@ export const List = styled.ul`
 
 export const Item = styled.ul`
   padding: 5px 10px;
-  border: 1px solid #ccc;
 `;
 
 export const Text = styled.ul`
